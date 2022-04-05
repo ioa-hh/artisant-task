@@ -1,5 +1,5 @@
 import React from 'react';
-import {App} from './App';
+import {ArtisantTaskApp} from './App';
 import reportWebVitals from './reportWebVitals';
 import {createRoot} from "react-dom/client";
 
@@ -9,7 +9,7 @@ if (!rootElement) {
 }
 const root = createRoot(rootElement);
 
-root.render(<App />)
+root.render(<ArtisantTaskApp />)
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
