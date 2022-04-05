@@ -1,0 +1,35 @@
+.header {
+  margin-bottom: 20px;
+}
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.subtitle {
+  font-size: 14px;
+  color: #828282;
+  letter-spacing: 0.01em;
+  margin-bottom: 24px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #828282;
+  border-radius: 5px;
+}
+.label {
+  font-size: 14px;
+  color: #828282;
+  letter-spacing: 0.01em;
+}
+
+.active_checkbox {
+  background-color: #828282;
+}
