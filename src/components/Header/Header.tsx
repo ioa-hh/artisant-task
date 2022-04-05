@@ -8,6 +8,8 @@ export const Header: React.FC = () => {
     const dispatch = useDispatch();
     const [isAvailable, setIsAvailable] = useState(false);
 
+    // When isAvailable changed
+    // dispatch new filter to state
     useEffect(() => {
         dispatch(productsActions.filterChanged({isAvailable}))
     }, [isAvailable]);
