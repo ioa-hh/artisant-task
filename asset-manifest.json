@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artisant-task/static/css/main.1e117305.css",
+    "main.js": "/artisant-task/static/js/main.e106456f.js",
+    "static/js/787.1fb40b55.chunk.js": "/artisant-task/static/js/787.1fb40b55.chunk.js",
+    "index.html": "/artisant-task/index.html",
+    "main.1e117305.css.map": "/artisant-task/static/css/main.1e117305.css.map",
+    "main.e106456f.js.map": "/artisant-task/static/js/main.e106456f.js.map",
+    "787.1fb40b55.chunk.js.map": "/artisant-task/static/js/787.1fb40b55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e117305.css",
+    "static/js/main.e106456f.js"
+  ]
+}
